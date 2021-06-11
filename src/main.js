@@ -17,7 +17,6 @@ axios.defaults.baseURL = "http://timemeetyou.com:8889/api/private/v1/"
 
 Vue.config.productionTip = false
 
-/* eslint-disable no-new */
 new Vue({
   el: '#app',
 	render: h => h(App),
